@@ -1,4 +1,4 @@
-name: RhemaJoy Ministries
+name: K.L. Dunkin
 favicon: null
 layout_spectrum: 0.3179930769838393
 typography_spectrum: 0.4884989126585424
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.3554799435660243
-  lightness: 0.6166828216519207
-  saturation: 0.48629025695845485
+    - '#f7e7e8'
+    - '#fe9fbd'
+    - '#480f16'
+    - '#ff2f45'
+    - '#604e36'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.0093050601426512
 purpose: []
